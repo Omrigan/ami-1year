@@ -24,3 +24,7 @@
 - Разбор контрольной: https://www.overleaf.com/read/qkhdrdqkxmgw#/36657068/ 
 
 *Авторы: Солонков Денис, Недолужко Андрей, Семенов Михаил* 
+
+## История 
+- Конспект: https://docs.google.com/document/d/1I0fFCN3FvYqclCAAMP0pTtNvr1T_OWQ4ihOxjc6ZxXk/edit?disco=AAAABHTxWVg&usp=suggestion_email_discussion
+
