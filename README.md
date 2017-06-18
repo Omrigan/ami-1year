@@ -1,6 +1,10 @@
 # ami-1year
 
 ## Матан
+- Ежик: http://ami161.ru/media/Matan_Ezhik.pdf
+
+*Авторы:*
+
 - Конспект лекций: https://www.overleaf.com/read/vdcgxjjwdjbf
 
 *Авторы:*
