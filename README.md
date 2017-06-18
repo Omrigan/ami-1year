@@ -25,6 +25,10 @@
 
 *Авторы: Солонков Денис, Недолужко Андрей, Семенов Михаил* 
 
+## Алгоритмы
+- Билеты к экзамену II-III модуля: https://docs.google.com/spreadsheets/d/1yCycO1OYDe1boxwXQSswZ_qSMN3yRjBhw_yEHcmDBvU/edit#gid=0
+
+
 ## История 
 - Конспект: https://docs.google.com/document/d/1I0fFCN3FvYqclCAAMP0pTtNvr1T_OWQ4ihOxjc6ZxXk/edit?disco=AAAABHTxWVg&usp=suggestion_email_discussion
 
