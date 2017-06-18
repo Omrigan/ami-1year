@@ -3,7 +3,9 @@
 ## Матан
 - Ежик: http://ami161.ru/media/Matan_Ezhik.pdf
 
-*Авторы:*
+*Авторы: Никитин Алексей, 
+Тиунов Александр,
+Савостьянов Антон*
 
 - Конспект лекций: https://www.overleaf.com/read/vdcgxjjwdjbf
 
