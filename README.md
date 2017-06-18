@@ -3,16 +3,16 @@
 ## Матан
 - Конспект лекций: https://www.overleaf.com/read/vdcgxjjwdjbf
 
-*Авторы: *
+*Авторы:*
 
 ## Линал
 - Билеты к коллоквиуму: https://www.overleaf.com/read/yycdyccnnsdx
 
-*Авторы: *
+*Авторы:*
 
 - Определения к коллоквиуму: https://www.sharelatex.com/project/591b35e0c25dc3b822894345
 
-*Авторы: *
+*Авторы:*
 
 ## Алгебра
 - Разбор контрольной: https://www.overleaf.com/read/qkhdrdqkxmgw#/36657068/ 
